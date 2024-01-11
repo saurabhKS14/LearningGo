@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"go.useLanguageServer": true
+	},
+	"extensions": {
+		"recommendations": [
+			"golang.go"
+		]
+	}
+}
